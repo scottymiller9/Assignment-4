@@ -1,7 +1,7 @@
 /* Dependencies */
-var listings = require('../controllers/listings.server.controller.js'), 
+var listings = require('../controllers/listings.server.controller.js'),
     getCoordinates = require('../controllers/coordinates.server.controller.js'),
-    express = require('express'), 
+    express = require('express'),
     router = express.Router();
 
 /* 
